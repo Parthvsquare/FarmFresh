@@ -3,4 +3,4 @@
 * They login, update, add, etc direclty via SMS
 * Which will be reflected intuitively to the end users i.e. customers
 * Here is the preview of the site
-[siteinfo](/Images/Screenshot 2021-06-07 at 19-06-08 FarmFresh - Home.png])
+![siteinfo](https://github.com/Parthvsquare/FarmFresh/blob/master/Images/Screenshot%202021-06-07%20at%2019-06-08%20FarmFresh%20-%20Home.png)
